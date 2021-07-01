@@ -1,4 +1,5 @@
-# PythonSnake
+# Feed The Snake
+
 A simple snake game I'm worked on in my early days of learning
 
 This project is based on pygame and python.
